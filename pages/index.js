@@ -80,11 +80,11 @@ export default function Home() {
                 Creating elegant designs suited for your needs following core
                 design theory.
               </p>
-              <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Design Tools I Use</h4>
-              <p className="text-white dark:text-black py-1 text-xl">Photoshop</p>
-              <p className="text-white dark:text-black py-1 text-xl">Illustrator</p>
-              <p className="text-white dark:text-black py-1 text-xl">Figma</p>
-              <p className="text-white dark:text-black py-1 text-xl">Indesign</p>
+              <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Tools I Use</h4>
+              <p className="text-white dark:text-black py-1 text-xl">Javascript</p>
+              <p className="text-white dark:text-black py-1 text-xl"></p>
+              <p className="text-white dark:text-black py-1 text-xl"></p>
+              <p className="text-white dark:text-black py-1 text-xl"></p>
             </div>
             <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl my-10 dark:bg-white flex-1 ">
               <a className= "text-5xl " href="https://github.com/ericpham19/React-App_Project"><FaReact/></a>
@@ -92,14 +92,13 @@ export default function Home() {
                React Crypto Application 
               </a>
               <p className="py-2 text-xl">
-                Do you have an idea for your next great website? Let's make it a
-                reality.
+               
               </p>
-              <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Design Tools I Use</h4>
-              <p className="text-white dark:text-black py-1 text-xl">Photoshop</p>
-              <p className="text-white dark:text-black py-1 text-xl">Illustrator</p>
-              <p className="text-white dark:text-black py-1 text-xl">Figma</p>
-              <p className="text-white dark:text-black py-1 text-xl">Indesign</p>
+              <h4 className="py-4 text-teal-100 text-2xl font-extrabold"> Tools I Use</h4>
+              <p className="text-white dark:text-black py-1 text-xl">React</p>
+              <p className="text-white dark:text-black py-1 text-xl"></p>
+              <p className="text-white dark:text-black py-1 text-xl"></p>
+              <p className="text-white dark:text-black py-1 text-xl"></p>
             </div>
             <div className=" border-2  shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl my-10 dark:bg-white flex-1 ">
             <a className= "text-5xl " href="https://github.com/ericpham19/HeroWiki"><SiRuby/></a>
@@ -110,11 +109,11 @@ export default function Home() {
                 Are you interested in feedback for your current project? I can
                 give you tips and tricks to level it up.
               </p>
-              <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Design Tools I Use</h4>
-              <p className="text-white dark:text-black py-1 text-xl">Photoshop</p>
-              <p className="text-white dark:text-black flex-1 py-1 text-xl">Illustrator</p>
-              <p className="text-white dark:text-black py-1 text-xl">Figma</p>
-              <p className="text-white dark:text-black py-1 text-xl">Indesign</p>
+              <h4 className="py-4 text-teal-100 text-2xl font-extrabold"> Tools I Use</h4>
+              <p className="text-white dark:text-black py-1 text-xl">Ruby</p>
+              <p className="text-white dark:text-black flex-1 py-1 text-xl"></p>
+              <p className="text-white dark:text-black py-1 text-xl"></p>
+              <p className="text-white dark:text-black py-1 text-xl"></p>
             </div>
 
             <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl my-10 dark:bg-white flex-1 ">
@@ -126,11 +125,11 @@ export default function Home() {
                 Are you interested in feedback for your current project? I can
                 give you tips and tricks to level it up.
               </p>
-              <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Design Tools I Use</h4>
-              <p className="text-white dark:text-black py-1 text-xl">Photoshop</p>
-              <p className="text-white dark:text-black py-1 text-xl">Illustrator</p>
-              <p className="text-white dark:text-black py-1 text-xl">Figma</p>
-              <p className="text-white dark:text-black py-1 text-xl">Indesign</p>
+              <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Tools I Use</h4>
+              <p className="text-white dark:text-black py-1 text-xl">Rails</p>
+              <p className="text-white dark:text-black py-1 text-xl"></p>
+              <p className="text-white dark:text-black py-1 text-xl"></p>
+              <p className="text-white dark:text-black py-1 text-xl"></p>
             </div>
           </div>
         </section>
