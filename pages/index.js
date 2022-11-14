@@ -8,18 +8,13 @@ import Image from "next/image";
 import profilepic from "../public/profileresized.jpg"
 import background from "../public/background.jpg"
 import {useState, useEffect} from 'react';
-import ClipLoader from "react-spinners/ClipLoader";
+
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
-  const [loading, setLoading] = useState(false);
+  
 
-  useEffect(() => {
-    setLoading(true)
-    setTimeout(() =>{
-      setLoading(false)
-    }, 3000)
-  }, [])
+ 
   return ( 
     
   
