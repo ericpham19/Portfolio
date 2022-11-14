@@ -5,6 +5,7 @@ module.exports = {
   content: [
     "./pages/**/*.{js,html,jsx}",
     "./Components/**/*.{js,html,jsx}",
+    ".pages/index.js"
   ],
   theme: {
     extend: {},
