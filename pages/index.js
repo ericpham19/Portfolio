@@ -58,7 +58,7 @@ export default function Home() {
           <div className= "text-center  pt-20 pb-20">
             <h3 className="text-5xl py-1 dark:text-white ">About Me</h3>
             <p className=" py-2 leading-8 text-gray-800 dark:text-gray-200 text-2xl">
-            During my software engineering course, I worked on several applications using a variety of languages such as .
+            During my software engineering transformative course, I worked on several applications using a variety of languages such as .
               <span className="text-teal-500"> Javascript, React and Ruby.</span>
               From these projects, I have gaine valuable understanding and exeperience on how to implement a project from scratch.
             </p>
@@ -73,14 +73,13 @@ export default function Home() {
                 Javascript Weather App
               </h3>
               <p className="py-2 text-xl">
-                Creating elegant designs suited for your needs following core
-                design theory.
+                A single page application enabling the user to check the weather for cities around the globe or use the current location for their immediate weather condition.
               </p>
               <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Tools I Use</h4>
               <p className="text-white dark:text-black py-1 text-xl">Javascript</p>
-              <p className="text-white dark:text-black py-1 text-xl"></p>
-              <p className="text-white dark:text-black py-1 text-xl"></p>
-              <p className="text-white dark:text-black py-1 text-xl"></p>
+              <p className="text-white dark:text-black py-1 text-xl">API (Unsplash, OpenWeather)</p>
+              <p className="text-white dark:text-black py-1 text-xl">HTML</p>
+              <p className="text-white dark:text-black py-1 text-xl">CSS</p>
             </div>
             <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl my-10 dark:bg-white flex-1 ">
               <a className= "text-5xl " href="https://github.com/ericpham19/React-App_Project"><FaReact/></a>
@@ -88,13 +87,13 @@ export default function Home() {
                React Crypto Application 
               </a>
               <p className="py-2 text-xl">
-               
+               Built on ReactJS with the aim to provide users with data on the most trending crypto of the day and also a list of 100 crypto globally. There is also a mock-up calculator which users can use to buy or sell a crypto using historical data.
               </p>
               <h4 className="py-4 text-teal-100 text-2xl font-extrabold"> Tools I Use</h4>
               <p className="text-white dark:text-black py-1 text-xl">React</p>
-              <p className="text-white dark:text-black py-1 text-xl"></p>
-              <p className="text-white dark:text-black py-1 text-xl"></p>
-              <p className="text-white dark:text-black py-1 text-xl"></p>
+              <p className="text-white dark:text-black py-1 text-xl">API (CoinGecko)</p>
+              <p className="text-white dark:text-black py-1 text-xl">TailWind CSS</p>
+              <p className="text-white dark:text-black py-1 text-xl">Axios</p>
             </div>
             <div className=" border-2  shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl my-10 dark:bg-white flex-1 ">
             <a className= "text-5xl " href="https://github.com/ericpham19/HeroWiki"><SiRuby/></a>
@@ -102,14 +101,13 @@ export default function Home() {
                Ruby CLI
               </a>
               <p className="py-2 text-xl">
-                Are you interested in feedback for your current project? I can
-                give you tips and tricks to level it up.
+                A command line interface that returns data on Marvel characters
               </p>
               <h4 className="py-4 text-teal-100 text-2xl font-extrabold"> Tools I Use</h4>
               <p className="text-white dark:text-black py-1 text-xl">Ruby</p>
-              <p className="text-white dark:text-black flex-1 py-1 text-xl"></p>
-              <p className="text-white dark:text-black py-1 text-xl"></p>
-              <p className="text-white dark:text-black py-1 text-xl"></p>
+              <p className="text-white dark:text-black flex-1 py-1 text-xl">Scraping (Nokogiri)</p>
+              <p className="text-white dark:text-black py-1 text-xl">Gems</p>
+              <p className="text-white dark:text-black py-1 text-xl">Sqlite3</p>
             </div>
 
             <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl my-10 dark:bg-white flex-1 ">
@@ -118,14 +116,13 @@ export default function Home() {
                Ruby on Rails Booking System
               </a>
               <p className="py-2 text-xl">
-                Are you interested in feedback for your current project? I can
-                give you tips and tricks to level it up.
+                A booking system built with Rails which supports users to create booking appointments using pre-set booking types.
               </p>
               <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Tools I Use</h4>
               <p className="text-white dark:text-black py-1 text-xl">Rails</p>
-              <p className="text-white dark:text-black py-1 text-xl"></p>
-              <p className="text-white dark:text-black py-1 text-xl"></p>
-              <p className="text-white dark:text-black py-1 text-xl"></p>
+              <p className="text-white dark:text-black py-1 text-xl">Ruby</p>
+              <p className="text-white dark:text-black py-1 text-xl">ActiveRecords</p>
+              <p className="text-white dark:text-black py-1 text-xl">Bootstrap</p>
             </div>
           </div>
         </section>
