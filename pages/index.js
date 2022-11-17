@@ -69,9 +69,9 @@ export default function Home() {
           <div className="lg:flex gap-10 text-center pt-20 " style= {{backgroundImage: "url(/background.jpg"}}>
             <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl my-10 dark:bg-white flex-1 ">
             <a className= "text-5xl  " href="https://ericpham19.github.io/JS-Application-/"><SiJavascript /></a>
-              <h3 className="text-3xl font-medium pt-8 pb-2  ">
+              <a href= "https://ericpham19.github.io/JS-Application-/" className="text-3xl font-medium pt-8 pb-2  ">
                 Javascript Weather App
-              </h3>
+              </a>
               <p className="py-2 text-xl">
                 A single page application enabling the user to check the weather for cities around the globe or use the current location for their immediate weather condition.
               </p>
