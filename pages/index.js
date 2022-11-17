@@ -16,8 +16,6 @@ export default function Home() {
 
  
   return ( 
-    
-  
     <div className={darkMode ? "dark" : ""}>
       <Head>
         <title>Eric Pham Porfolio</title>
@@ -32,7 +30,7 @@ export default function Home() {
               <li><BsFillMoonStarsFill className= "cursor-pointer " onClick= {() => setDarkMode(!darkMode)}/>
               </li>
               <li>
-              <a className="bg-gradient-to-r px-2 py-1 bg-blue-500 text-white rounded ml-8" href="#">Resume</a>
+              <a className="bg-gradient-to-r px-2 py-1 bg-blue-500 text-white rounded ml-8" href="https://drive.google.com/file/d/1UYusHidqCVlzncHa_wgPCf948hNsRahJ/view?usp=sharing">Resume</a>
               </li>
             </ul>
           </nav>
@@ -40,16 +38,14 @@ export default function Home() {
           <div className= "text-center p-10  bg-fixed" style= {{backgroundImage: "url(/background.jpg"}} >
             <h2 className= "text-5xl py-2 font-semibold text-teal-600">Eric Pham</h2>
             <h3 className= " py-2 text-4xl">Full Stacked Developer</h3>
-            <p className= "text-md py-5 leading-6 text-2xl max-w-xl mx-auto">Hi my name is EREKKKK and I am a software engineer Hie engineer
-            .Hi my name is EREKKKK and I am a soft</p>
-         
+            <p className= "text-md py-5 leading-6 text-2xl max-w-xl mx-auto">Hi my name is Eric and I am software enginner</p>
           
           
           <div className= "flex justify-center gap-10 text-5xl ">
 
-          <a href="#"> <AiFillGithub /></a>
-          <a href="#"><AiFillLinkedin /></a>
-          <a href="#"> <AiFillMediumSquare/></a>
+          <a href="https://github.com/ericpham19"> <AiFillGithub /></a>
+          <a href="https://www.linkedin.com/in/duy-pham-83177916b/"><AiFillLinkedin /></a>
+          <a href="https://medium.com/@ericpham19"> <AiFillMediumSquare/></a>
           </div>
 
           <div className= "relative justify-center  ">
