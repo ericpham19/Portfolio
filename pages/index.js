@@ -5,7 +5,7 @@ import {SiJavascript, SiRuby, SiRubyonrails} from "react-icons/si"
 import { FaReact } from "react-icons/fa";
 
 import Image from "next/image";
-import profilepic from "../public/profileresized.jpg"
+import profilepic from "../public/profilepic.png"
 import background from "../public/background.jpg"
 import {useState, useEffect} from 'react';
 
