@@ -37,7 +37,7 @@ export default function Home() {
 
           <div className= "text-center p-10  bg-fixed" style= {{backgroundImage: "url(/background.jpg"}} >
             <h2 className= "text-5xl py-2 font-semibold text-teal-600">Eric Pham</h2>
-            <h3 className= " py-2 text-4xl">Full Stacked Developer</h3>
+            <h3 className= " py-2 text-4xl">Full Stack Developer</h3>
             <p className= "text-md py-5 leading-6 text-2xl max-w-xl mx-auto">Hi my name is Eric and I am software enginner</p>
           
           
