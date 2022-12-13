@@ -75,7 +75,7 @@ export default function Home() {
               <p className="py-2 text-xl">
                 A single page application enabling the user to check the weather for cities around the globe or use the current location for their immediate weather condition.
               </p>
-              <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Tools I Use</h4>
+              <h4 className="py-4 text-teal-300 text-2xl font-extrabold">Tools I Use</h4>
               <p className="text-white dark:text-black py-1 text-xl">Javascript</p>
               <p className="text-white dark:text-black py-1 text-xl">API (Unsplash, OpenWeather)</p>
               <p className="text-white dark:text-black py-1 text-xl">HTML</p>
@@ -89,7 +89,7 @@ export default function Home() {
               <p className="py-2 text-xl">
                Built on ReactJS with the aim to provide users with data on the most trending crypto of the day and also a list of 100 crypto globally. There is also a mock-up calculator which users can use to buy or sell a crypto using historical data.
               </p>
-              <h4 className="py-4 text-teal-100 text-2xl font-extrabold"> Tools I Use</h4>
+              <h4 className="py-4 text-teal-300 text-2xl font-extrabold"> Tools I Use</h4>
               <p className="text-white dark:text-black py-1 text-xl">React</p>
               <p className="text-white dark:text-black py-1 text-xl">API (CoinGecko)</p>
               <p className="text-white dark:text-black py-1 text-xl">TailWind CSS</p>
@@ -103,7 +103,7 @@ export default function Home() {
               <p className="py-2 text-xl">
                 A command line interface that returns data on Marvel characters
               </p>
-              <h4 className="py-4 text-teal-100 text-2xl font-extrabold"> Tools I Use</h4>
+              <h4 className="py-4 text-teal-300 text-2xl font-extrabold"> Tools I Use</h4>
               <p className="text-white dark:text-black py-1 text-xl">Ruby</p>
               <p className="text-white dark:text-black flex-1 py-1 text-xl">Scraping (Nokogiri)</p>
               <p className="text-white dark:text-black py-1 text-xl">Gems</p>
@@ -118,7 +118,7 @@ export default function Home() {
               <p className="py-2 text-xl">
                 A booking system built with Rails which supports users to create booking appointments using pre-set booking types.
               </p>
-              <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Tools I Use</h4>
+              <h4 className="py-4 text-teal-300 text-2xl font-extrabold">Tools I Use</h4>
               <p className="text-white dark:text-black py-1 text-xl">Rails</p>
               <p className="text-white dark:text-black py-1 text-xl">Ruby</p>
               <p className="text-white dark:text-black py-1 text-xl">ActiveRecords</p>
@@ -132,7 +132,7 @@ export default function Home() {
               <p className="py-2 text-xl">
                 A quick and easy application to help users create workout sessions and track their progress.
               </p>
-              <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Tools I Use</h4>
+              <h4 className="py-4 text-teal-300 text-2xl font-extrabold">Tools I Use</h4>
               <p className="text-white dark:text-black py-1 text-xl">Rails</p>
               <p className="text-white dark:text-black py-1 text-xl">React</p>
               <p className="text-white dark:text-black py-1 text-xl">Material UI</p>
