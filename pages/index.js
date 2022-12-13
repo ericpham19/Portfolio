@@ -67,7 +67,7 @@ export default function Home() {
             </p>
           </div>
           <div className="lg:flex gap-10 text-center pt-20 " style= {{backgroundImage: "url(/background.jpg"}}>
-            <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl my-10 dark:bg-white flex-1 ">
+            <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl  dark:bg-white flex-1 ">
             <a className= "text-5xl  " href="https://ericpham19.github.io/JS-Application-/"><SiJavascript /></a>
               <a href= "https://ericpham19.github.io/JS-Application-/" className="text-3xl font-medium pt-8 pb-2  ">
                 Javascript Weather App
@@ -81,7 +81,7 @@ export default function Home() {
               <p className="text-white dark:text-black py-1 text-xl">HTML</p>
               <p className="text-white dark:text-black py-1 text-xl">CSS</p>
             </div>
-            <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl my-10 dark:bg-white flex-1 ">
+            <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl  dark:bg-white flex-1 ">
               <a className= "text-5xl " href="https://github.com/ericpham19/React-App_Project"><FaReact/></a>
               <a className="text-3xl font-medium pt-8 pb-2" href="https://github.com/ericpham19/React-App_Project">
                React Crypto Application 
@@ -95,7 +95,7 @@ export default function Home() {
               <p className="text-white dark:text-black py-1 text-xl">TailWind CSS</p>
               <p className="text-white dark:text-black py-1 text-xl">Axios</p>
             </div>
-            <div className=" border-2  shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl my-10 dark:bg-white flex-1 ">
+            <div className=" border-2  shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl  dark:bg-white flex-1 ">
             <a className= "text-5xl " href="https://github.com/ericpham19/HeroWiki"><SiRuby/></a>
             <a className="text-3xl font-medium pt-8 pb-2" href="https://github.com/ericpham19/HeroWiki">
                Ruby CLI
@@ -110,7 +110,7 @@ export default function Home() {
               <p className="text-white dark:text-black py-1 text-xl">Sqlite3</p>
             </div>
 
-            <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl my-10 dark:bg-white flex-1 ">
+            <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl  dark:bg-white flex-1 ">
               <a className= "text-6xl " href="https://github.com/ericpham19/EventPlanner"><SiRubyonrails/></a>
               <a className="text-3xl font-medium pt-8 pb-2" href="https://github.com/ericpham19/EventPlanner">
                Ruby on Rails Booking System
@@ -123,6 +123,21 @@ export default function Home() {
               <p className="text-white dark:text-black py-1 text-xl">Ruby</p>
               <p className="text-white dark:text-black py-1 text-xl">ActiveRecords</p>
               <p className="text-white dark:text-black py-1 text-xl">Bootstrap</p>
+            </div>
+            <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl  dark:bg-white flex-1 ">
+              <a className= "text-6xl flex " href="https://github.com/ericpham19/EventPlanner"><SiRubyonrails/><FaReact/></a>
+              <a className="text-3xl font-medium pt-8 pb-2" href="https://github.com/ericpham19/EventPlanner">
+               EasyFitness 
+              </a>
+              <p className="py-2 text-xl">
+                A quick and easy application to help users create workout sessions and track their progress.
+              </p>
+              <h4 className="py-4 text-teal-100 text-2xl font-extrabold">Tools I Use</h4>
+              <p className="text-white dark:text-black py-1 text-xl">Rails</p>
+              <p className="text-white dark:text-black py-1 text-xl">React</p>
+              <p className="text-white dark:text-black py-1 text-xl">Material UI</p>
+              <p className="text-white dark:text-black py-1 text-xl">Fly.io</p>
+              <p className="text-white dark:text-black py-1 text-xl">Fly.io</p>
             </div>
           </div>
         </section>
