@@ -126,7 +126,7 @@ export default function Home() {
             </div>
             <div className="  border-2 shadow-2xl shadow-blue-900 opacity-100 p-10 rounded-xl  dark:bg-white flex-1 ">
               <a className= "text-6xl flex " href="https://github.com/ericpham19/EventPlanner"><SiRubyonrails/><FaReact/></a>
-              <a className="text-3xl font-medium pt-8 pb-2" href="https://github.com/ericpham19/EventPlanner">
+              <a className="text-3xl font-medium pt-8 pb-2" href="https://fastidious-cocada-8350df.netlify.app/">
                EasyFitness 
               </a>
               <p className="py-2 text-xl">
@@ -137,7 +137,7 @@ export default function Home() {
               <p className="text-white dark:text-black py-1 text-xl">React</p>
               <p className="text-white dark:text-black py-1 text-xl">Material UI</p>
               <p className="text-white dark:text-black py-1 text-xl">Fly.io</p>
-              <p className="text-white dark:text-black py-1 text-xl">Fly.io</p>
+              <p className="text-white dark:text-black py-1 text-xl">Netlify</p>
             </div>
           </div>
         </section>
